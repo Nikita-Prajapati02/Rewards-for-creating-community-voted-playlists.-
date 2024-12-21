@@ -6,6 +6,8 @@ This project aims to incentivize the creation of high-quality playlists by rewar
 
 ## Contract Address
 0x32A5B7f0E29540Df70d93DF840f86f241be4bc58
+![image](https://github.com/user-attachments/assets/0fa1ff33-1e09-4ed8-815d-fb07d247db78)
+
 
 ## Project Vision
 The project envisions a collaborative music or content curation platform where users actively participate in promoting high-quality content through voting. Creators are motivated to craft excellent playlists, fostering a vibrant and inclusive community.
